@@ -23,3 +23,5 @@ Acessar o site para determinar o email, que vai receber as informações
 ### https://www.emailjs.com/
 
 
+Instalar dependencia de icons
+### npm install react-icons

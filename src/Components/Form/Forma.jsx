@@ -98,7 +98,7 @@ export default function Form() {
 
                     // Adicionar parágrafo "De 5 a 11 de Maio de 2023 - 4.ª edição"
                     doc.setFont('helvetica');
-                    doc.text("Dia 4 e 6 de Novembro de 2024 - 1.ª edição", centerX(doc.internal.pageSize.width, 0), 104, { align: 'center' });
+                    doc.text("De 4 a 6 de Novembro de 2024 - 1.ª edição", centerX(doc.internal.pageSize.width, 0), 104, { align: 'center' });
 
                     // Adicionar detalhes do formulário ao PDF com estilos personalizados
                     doc.setFont('helvetica');
