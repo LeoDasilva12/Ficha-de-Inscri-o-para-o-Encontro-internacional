@@ -157,7 +157,7 @@ export default function Form() {
                     <div className="logoEncontro"><img src={logoEncontro} width="250" id="Encontro_internacional" /></div>
                     <h1 id="Tema">Encontro Internacional</h1>
                     <h1 id="Tema1">“Sobre Lexicologia, Lexicografia e Terminologia em Angola”</h1>
-                    <h1 id="Tema3">Dia 4 e 6 de Novembro de 2024 - 1.ª edição</h1>
+                    <h1 id="Tema3">De 4 a 6 de Novembro de 2024 - 1.ª edição</h1>
                     <h1 id="Tema5">Formulário de Inscrição</h1>
 
 
